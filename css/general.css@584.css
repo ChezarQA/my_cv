@@ -1,26 +1,26 @@
 @font-face {
 	font-family: 'You_Add_Me_Sans';
-	src: url('/fonts/uadd.me_Regular.woff2') format('woff2'),
-		url('/fonts/uadd.me_Regular.woff') format('woff'),
-		url('/fonts/uadd.me_Regular.ttf') format('truetype');
+	src: url("/fonts/uadd.me_Regular.woff2") format('woff2'),
+		url("/fonts/uadd.me_Regular.woff") format('woff'),
+		url("/fonts/uadd.me_Regular.ttf") format('truetype');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'You_Add_Me_Sans';
-	src: url('/fonts/uadd.me_Medium.woff2') format('woff2'),
-		url('/fonts/uadd.me_Medium.woff') format('woff'),
-		url('/fonts/uadd.me_Medium.ttf') format('truetype');
+	src: url("/fonts/uadd.me_Medium.woff2") format('woff2'),
+		url("/fonts/uadd.me_Medium.woff") format('woff'),
+		url("/fonts/uadd.me_Medium.ttf") format('truetype');
 	font-weight: 500;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'You_Add_Me_Sans';
-	src: url('/fonts/uadd.me_Bold.woff2') format('woff2'),
-		url('/fonts/uadd.me_Bold.woff') format('woff'),
-		url('/fonts/uadd.me_Bold.ttf') format('truetype');
+	src: url("/fonts/uadd.me_Bold.woff2") format('woff2'),
+		url("/fonts/uadd.me_Bold.woff") format('woff'),
+		url("/fonts/uadd.me_Bold.ttf") format('truetype');
 	font-weight: 700;
 	font-style: normal;
 }
